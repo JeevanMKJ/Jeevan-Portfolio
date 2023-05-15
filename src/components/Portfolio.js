@@ -149,6 +149,7 @@ import PasswordGeneratorImage from "../images/PasswordGenerator.png"
 import JSCodeQuizImages from "../images/JSCodeQuiz.png"
 import DieGameImage from "../images/DieGame.png"
 import NumberGuessGameImage from "../images/NumberGuessGame.png"
+import imageOf4096 from "../images/imageOf4096.png"
 
 const projects = [
   {
@@ -157,7 +158,7 @@ const projects = [
     href: "https://highfives-4096.herokuapp.com/",
     githubLink: "https://github.com/JeevanMKJ/4096",
     githubLinkText: "See the code",
-    imageSrc: 4096,
+    imageSrc: imageOf4096,
     imageAlt: "Image of home page",
   },
   {
