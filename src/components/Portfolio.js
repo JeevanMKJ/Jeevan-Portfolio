@@ -153,6 +153,15 @@ import NumberGuessGameImage from "../images/NumberGuessGame.png"
 const projects = [
   {
     id: 1,
+    name: "4096",
+    href: "https://highfives-4096.herokuapp.com/",
+    githubLink: "https://github.com/JeevanMKJ/4096",
+    githubLinkText: "See the code",
+    imageSrc: 4096,
+    imageAlt: "Image of home page",
+  },
+  {
+    id: 2,
     name: "Vilcabamba Events",
     href: "https://glacial-escarpment-38096.herokuapp.com/",
     githubLink: "https://github.com/JeevanMKJ/Vilca--Events",
@@ -161,7 +170,7 @@ const projects = [
     imageAlt: "Image of home page",
   },
   {
-    id: 2,
+    id: 3,
     name: "Note Taker",
     href: "https://whispering-journey-75499.herokuapp.com/",
     githubLink: "https://github.com/JeevanMKJ/Note_Taker_Application",
@@ -170,7 +179,7 @@ const projects = [
     imageAlt: "Image of note page",
   },
   {
-    id: 3,
+    id: 4,
     name: "Daily Schedule Planner",
     href: "https://jeevanmkj.github.io/daily_schedule_planner/",
     githubLink: "https://github.com/JeevanMKJ/daily_schedule_planner",
@@ -179,7 +188,7 @@ const projects = [
     imageAlt: "Image of home page",
   },
   {
-    id: 4,
+    id: 5,
     name: "Password Generator",
     href: "https://jeevanmkj.github.io/password_generator/",
     githubLink: "https://github.com/JeevanMKJ/password_generator",
@@ -188,7 +197,7 @@ const projects = [
     imageAlt: "Image of home page",
   },
   {
-    id: 5,
+    id: 6,
     name: "JS Code Quiz",
     href: "https://jeevanmkj.github.io/js-code-quiz/",
     githubLink: "https://github.com/JeevanMKJ/js-code-quiz",
@@ -197,7 +206,7 @@ const projects = [
     imageAlt: "Image of home page",
   },
   {
-    id: 6,
+    id: 7,
     name: "Die Game",
     href: "https://jeevanmkj.github.io/die_game/",
     githubLink: "https://github.com/JeevanMKJ/die_game",
@@ -206,14 +215,14 @@ const projects = [
     imageAlt: "Image of home page",
   },
   {
-    id: 7,
+    id: 8,
     name: "Number Guess Game",
     href: "https://jeevanmkj.github.io/number_guess_game/",
     githubLink: "https://github.com/JeevanMKJ/number_guess_game",
     githubLinkText: "See the code",
     imageSrc: NumberGuessGameImage,
     imageAlt: "Image of home page",
-  },
+  }
 ]
 
 export default function Example() {
