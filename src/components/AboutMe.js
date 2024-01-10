@@ -53,7 +53,8 @@ export default function AboutMe() {
               </div>
 
               <StaticImage
-                src="../images/profileImage.jpg"
+                // src="../images/profileImage.jpg"
+                src="../images/profile-pic.png"
                 alt="Profile Image"
                 placeholder="blurred"
                 layout="constrained"
